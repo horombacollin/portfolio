@@ -10,3 +10,11 @@ document.querySelectorAll(".nav-link").forEach(n => n.addEventListener("click", 
     hamburger.classList.remove("active");
     navMenu.classList.remove("active");
 }))
+
+let d = new Date();
+
+let newUpdate = document.getElementById('footer-sect');
+newUpdate.querySelector('#currentYear').innerHTML = d.getFullYear();
+newUpdate.querySelector('#currentDateAndTime').innerHTML = document.lastModified;
+
+

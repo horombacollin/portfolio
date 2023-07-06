@@ -60,6 +60,50 @@ a {
    
 }
 
+footer {
+    background-color: #262626;
+    padding: 10px;
+}
+
+footer p {
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.social {
+    text-align: center;
+    padding: 20px;
+   
+}
+
+.fa-brands {
+    margin-left: 10px;
+    
+    font-size: larger;
+}
+
+.fa-square-youtube {
+    color: #FF0000;
+}
+.fa-square-twitter {
+    color: RGB(29, 155, 240);
+}
+.fa-square-instagram {
+    color: RGB(193, 53, 132);
+}
+.fa-square-facebook {
+    color: RGB(23, 169, 253);
+}
+
+.fa-tiktok {
+    color: RGB(37, 244, 238);
+}
+
+
+  
+
 @media (max-width: 768px){
     .hamburger {
         display: block;
