@@ -80,26 +80,12 @@ footer p {
 
 .fa-brands {
     margin-left: 10px;
-    
-    font-size: larger;
-}
-
-.fa-square-youtube {
     color: #FF0000;
-}
-.fa-square-twitter {
-    color: RGB(29, 155, 240);
-}
-.fa-square-instagram {
-    color: RGB(193, 53, 132);
-}
-.fa-square-facebook {
-    color: RGB(23, 169, 253);
+    font-size: larger;
+    
 }
 
-.fa-tiktok {
-    color: RGB(37, 244, 238);
-}
+
 
 
   
