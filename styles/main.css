@@ -80,8 +80,7 @@ footer p {
 
 .fa-brands {
     margin-left: 10px;
-    color: #FF0000;
-    font-size: larger;
+    color: #f4d58d;
     
 }
 
@@ -123,5 +122,10 @@ footer p {
 
     .nav-menu.active {
         left: 0;
+    }
+
+    h2 {
+        font-size: small;
+        color: #660708;
     }
 }
