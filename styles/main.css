@@ -75,7 +75,12 @@ footer p {
 .social {
     text-align: center;
     padding: 20px;
-   
+    background-color: #708d81; 
+}
+
+.top-header {
+    background-color: #708d81;
+    
 }
 
 .fa-brands {
